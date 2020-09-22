@@ -29,7 +29,7 @@ Source: https://www.nomensa.com/blog/2005/what-screen-reader
 
 a) You want to create a webpage with the photos from your latest vacation
 
-for an image the <img> tag is used
+for an image the img tag is used
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
 
